@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.var1,
+.var2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.var1{
+    background-color: black;
+    color: white;
+}
+.var2{
+    background-color: yellow;
+    color: black;
+}
